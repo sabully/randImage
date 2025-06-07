@@ -12,6 +12,7 @@
 python3+
 
 ## 🚀运行脚本
+```python
 pip install --no-cache-dir Flask==3.0.2 watchdog==4.0.0 gevent -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn 
 
 ## 🏗️使用
