@@ -20,7 +20,7 @@ pip install --no-cache-dir Flask==3.0.2 watchdog==4.0.0 gevent -i https://pypi.t
 部署项目后，无论您使用的是脚本还是容器，请找到映射出的（或目录内的）images文件夹，在里边再次添加子目录（比如pc），访问IP:端口/pc即可在pc这个文件夹内进行随机图片
 
 ## 📄 开源协议
-本项目采用 MIT 协议开源，详见 [LICENSE](./LICENSE) 文件。
+本项目采用 MIT 协议开源，详见 [LICENSE](./LICENSE.txt) 文件。
 
 ## 🤝赞助
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
