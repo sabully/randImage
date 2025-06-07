@@ -13,7 +13,8 @@ python3+
 
 ## 🚀运行脚本
 ```python
-pip install --no-cache-dir Flask==3.0.2 watchdog==4.0.0 gevent -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn 
+pip install --no-cache-dir Flask==3.0.2 watchdog==4.0.0 gevent -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
+```
 
 ## 🏗️使用
 部署项目后，无论您使用的是脚本还是容器，请找到映射出的（或目录内的）images文件夹，在里边再次添加子目录（比如pc），访问IP:端口/pc即可在pc这个文件夹内进行随机图片
